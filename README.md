@@ -4,6 +4,11 @@ I'm Abhishek Chakravarti, and I live and work in Kolkata, India. I'm currently w
 
 I'm also very happy to be associated with the RefPerSys Project under the mentorship and support of Basile Starynkevitch. RefPerSys is a research project in Artifical Intelligence, building on the ideas of the late Jacques Pitrat. I've learned a lot from the RefPerSys Project, and especially find its goal of generating code on the fly using metaprogramming techniques particularly fascinating.
 
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=achakravarti)](https://github.com/achakravarti/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achakravarti&layout=compact)](https://github.com/achakravarti/)
+
+[![achakravarti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhishekc&layout=compact)](https://github.com/achakravarti/)
 
 <!--
 **achakravarti/achakravarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
