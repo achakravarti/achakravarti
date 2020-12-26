@@ -6,6 +6,8 @@ I'm also very happy to be associated with the [RefPerSys](https://github.com/Ref
 
 I use Arch Linux on all of my development machines, and manage production servers on Ubuntu Server virtual machines. Of late, I have become interested in FreeBSD, and have been exploring the possibility of migrating one of the key production servers I manage to FreeBSD.
 
+From a philosophical standpoint, I appreciate minimalism, and perhaps this is one reason that makes a language such as C appealing to me. I also tend to believe that it's important that we consider the environmental impact of our source code, especially its carbon footprint. I realise that this is a very vague metric, but with so much power being expended on running data servers, it is certainly worth considering.
+
 [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=achakravarti)](https://github.com/achakravarti/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achakravarti&layout=compact)](https://github.com/achakravarti/)
