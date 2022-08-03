@@ -8,6 +8,11 @@ I use Arch Linux on all of my development machines, and manage production server
 
 From a philosophical standpoint, I appreciate minimalism, and perhaps this is one reason that makes a language such as C appealing to me. I also tend to believe that it's important that we consider the environmental impact of our source code, especially its carbon footprint. I realise that this is a very vague metric, but with so much power being expended on running data servers, it is certainly worth considering.
 
+|     |     |
+| --- | --- |
+| Row 1 Cell 1 | Row 1 Cell 2 |
+| Row 2 Cell 1 | Row 2 Cell 2 |
+
 - 🔭 I’m currently working with the following operating systems:
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=flat)
 
