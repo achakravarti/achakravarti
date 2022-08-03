@@ -10,11 +10,11 @@ From a philosophical standpoint, I appreciate minimalism, and perhaps this is on
 
 |     |     |
 | --- | --- |
-| Row 1 Cell 1 | Row 1 Cell 2 |
-| Row 2 Cell 1 | Row 2 Cell 2 |
+| Operating Systems | ![Alpine Linux](https://img.shields.io/badge/-Alpine%20Linux-0D597F?logo=alpine-linux&logoColor=white&style=flat) ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=flat) ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white&style=flat) ![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?logo=freebsd&logoColor=white&style=flat) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-AB2B28?logo=ubuntu&logoColor=white&style=flat) |
+| Languages | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=blue&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) |
 
-- 🔭 I’m currently working with the following operating systems:
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=flat)
+
+
 
 [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=achakravarti)](https://github.com/achakravarti/)
 
